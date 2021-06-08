@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Hamburger */
+
+.hamburger-active {
+    display: none;
+}
+
+.hamburger {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 5px 0;
+}
