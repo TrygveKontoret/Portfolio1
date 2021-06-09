@@ -17,7 +17,7 @@ blogs = (posts) => {
             console.log(images);
             let blogPost = `
             <div>
-                <a href="blog.html?id=${blog.id}"><p>${blog.title.rendered}</p></a>
+                <a href="blog.html?id=${blog.id}"><h3>${blog.title.rendered}</h3></a>
                 <div class="imgContainer">
                 <a href="blog.html?id=${blog.id}"><img src="${images.media_details.sizes.medium.source_url}" alt="${images.alt_text}"></a>
                 </div>
