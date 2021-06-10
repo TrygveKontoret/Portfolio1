@@ -143,7 +143,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin: 20px auto;
+    margin: 20px;
     padding: 20px;
     background-color: #4e819883;
     width: 300px;
@@ -228,7 +228,7 @@ body {
 }
 
 .posts div {
-    margin: 10px;
+    margin: 10px 20px;
     text-align: center;
     background-color: #4e819883;
     border-radius: 10px;
@@ -251,6 +251,13 @@ body {
 
 h3 {
     margin-top: 5px;
+}
+
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 424px;
 }
 
 /* Blogpost */
