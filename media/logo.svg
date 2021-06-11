@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="102" height="102" viewBox="0 0 102 102">
   <g id="Group_1" data-name="Group 1" transform="translate(-109 -272)">
-    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(109 272)" fill="#fff" stroke="#97999f" stroke-width="1">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(109 272)" fill="#fff" stroke="#000" stroke-width="3">
       <circle cx="51" cy="51" r="51" stroke="none"/>
-      <circle cx="51" cy="51" r="50.5" fill="none"/>
+      <circle cx="51" cy="51" r="49.5" fill="none"/>
     </g>
-    <text id="TG" transform="translate(128 299)" font-size="40" font-family="Magneto-Bold, Magneto" font-weight="700"><tspan x="0" y="36">TG</tspan></text>
+    <text id="TG" transform="translate(130 293)" font-size="60" font-family="SimSun"><tspan x="0" y="52">TG</tspan></text>
   </g>
 </svg>

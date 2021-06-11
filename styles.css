@@ -225,6 +225,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 .posts div {
@@ -346,7 +347,6 @@ h3 {
     border-radius: 5px;
 }
 
-
 @media (min-width: 1000px) {
     .hamburger {
         display: none;
@@ -354,5 +354,9 @@ h3 {
 
     .hamburger-inactive {
         transform: translateX(0%);    
+    }
+
+    .about p {
+        width: 50%;
     }
 }
