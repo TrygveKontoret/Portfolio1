@@ -4,6 +4,6 @@
       <circle cx="51" cy="51" r="51" stroke="none"/>
       <circle cx="51" cy="51" r="49.5" fill="none"/>
     </g>
-    <text id="TG" transform="translate(130 293)" font-size="60" font-family="SimSun"><tspan x="0" y="52">TG</tspan></text>
+    <text id="TG" transform="translate(126 293)" font-size="50" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="48">TG</tspan></text>
   </g>
 </svg>
